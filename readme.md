@@ -61,6 +61,7 @@ python financial_tracker.py
 
 
 ## Sample Output
+[Download Sample Excel Report](performance_report_sample.xlsx)
 
 | Ticker | 3-Year CAGR (%) | Annual Volatility (%) | Sharpe Ratio |
 |--------|----------------|----------------------|--------------|

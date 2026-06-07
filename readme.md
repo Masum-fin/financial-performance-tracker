@@ -53,6 +53,12 @@ cd financial-performance-tracker
 pip install -r requirements.txt
 python financial_tracker.py
 ```
+## Sample Output
+
+![Cumulative Returns Chart](sample_output.png)
+
+| Ticker | 3-Year CAGR (%) | Annual Volatility (%) | Sharpe Ratio |
+
 
 ## Sample Output
 
